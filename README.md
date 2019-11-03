@@ -1,2 +1,4 @@
 # Base-Apprael
-Front End Webdesign
+Front End Web Design
+
+This is a Basic Front End Website using HTML5 and CSS3. Here we uses some features of which is necessary for building a basic front end web design using HTML and CSS.
